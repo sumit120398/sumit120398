@@ -1,10 +1,18 @@
-<h2 align="left">Hi 👋! My name is Sumit and I'm a Software Engineer, from India.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Sumit;🧑‍💻Software Engineer at Xitadel;❣️Loves to learn new stuff;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
+
+🧑‍💻About Me:<br>
+🌱 I’m learning <b>Cloud related stuff</b><br>
+👯 I’m looking to collaborate on <b>Open source Project.</b><br>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -26,10 +34,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-channawar-7a8a321b4/)](https://www.linkedin.com/in/sumit-channawar-7a8a321b4/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@12sumitchannawar59@gmail.com)](mailto:mail@12sumitchannawar59@gmail.com)
+ 
 
-###
