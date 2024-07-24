@@ -9,8 +9,10 @@
 ###
 
 🧑‍💻About Me:<br>
-🌱 I’m learning <b>Cloud related stuff</b><br>
+🌱 I’m learning <b>Cloud related stuff.</b><br>
 👯 I’m looking to collaborate on <b>Open source Project.</b><br>
+📝 I believe in continuous learning and enjoy exploring new technologies and tools.<br>
+⚡ Fun fact: My first line of code was not "Hello World!"<br>
 
 
 
